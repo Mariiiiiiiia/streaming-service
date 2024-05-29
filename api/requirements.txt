@@ -1,0 +1,9 @@
+fastapi
+python-multipart
+uvicorn
+asyncpg
+pydantic_settings
+minio
+boto3
+aiokafka
+ #pip install -r requirements.txt

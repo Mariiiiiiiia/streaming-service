@@ -1,0 +1,11 @@
+fastapi
+python-multipart
+uvicorn
+asyncpg
+pydantic_settings
+aiokafka
+aiomultiprocess
+opencv-python
+Pillow
+imageio_ffmpeg
+ #pip install -r requirements.txt
